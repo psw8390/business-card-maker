@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c03caa78950880ef8cb38dcf095063f",
+    "revision": "0fa15e81c1867fe5cfb0e1e80462a5d5",
     "url": "/business-card-maker/index.html"
   },
   {
-    "revision": "b25c59f83f6363178f7c",
+    "revision": "9c8c83a8cc1860e8e8d1",
     "url": "/business-card-maker/static/css/main.c8ca60a8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/business-card-maker/static/js/2.1dbf1e80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b25c59f83f6363178f7c",
-    "url": "/business-card-maker/static/js/main.349b8469.chunk.js"
+    "revision": "9c8c83a8cc1860e8e8d1",
+    "url": "/business-card-maker/static/js/main.78cfaeef.chunk.js"
   },
   {
     "revision": "ee219eb9a182e22b29d4",
